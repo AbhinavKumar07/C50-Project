@@ -1,0 +1,25 @@
+.OrigamiDesignsRow1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.OrigamiDesignsRow2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+.OrigamiDesignsRow1,.OrigamiDesignsRow2 ,.AboutUs{
+    background-color: blueviolet;
+}
+.Aboutus,.Followus{
+    color:black;
+}
+
+.Header{
+    background-color:rgb(3, 243, 211);
+}
